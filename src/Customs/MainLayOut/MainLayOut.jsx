@@ -9,6 +9,7 @@ const MainLayOut = ({children}) => {
           <Header/>
             {children}
         </>
+
         
     )
 }
